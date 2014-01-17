@@ -1,1 +1,6 @@
 This is just a test file
+
+Adding new lines to test smart commits.
+
+Format:
+Issue #time xdays xhours #comment "the comment"
