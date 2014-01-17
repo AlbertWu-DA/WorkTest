@@ -4,3 +4,5 @@ Adding new lines to test smart commits.
 
 Format:
 Issue #time xdays xhours #comment "the comment"
+
+Initial smart commit seemed to work, removed multi-user issue
